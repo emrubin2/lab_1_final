@@ -1,0 +1,121 @@
+.leaflet-popup-content {
+    margin: 0.4em ;
+}
+
+
+
+body,html {
+    background:#f1bf00 ;
+    
+    
+}
+
+
+
+
+#map {
+    height: 100%;
+    width: 80%;
+    float: right;
+    min-width: 200px;
+    vertical-align: top;
+    outline-style: groove;
+    border: solid gray 2px;
+    
+}
+
+
+
+#container {
+  width: 30%;
+  height: 30vh;
+  position: relative;
+  min-height: 200px;
+}
+
+
+
+
+
+
+.sequence-control-container {
+    width: 350px;
+    height: 30px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+}
+
+
+.legend-control-container {
+    width: 160px;
+    height: 130px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+}
+
+
+.menu-ui {
+  background:#fff;
+  position:absolute;
+  top:10px;right:10px;
+  z-index:1;
+  border-radius:3px;
+  width:120px;
+  border:1px solid rgba(0,0,0,0.4);
+  }
+
+  .menu-ui a {
+    font-size:13px;
+    color:#404040;
+    display:block;
+    margin:0;padding:0;
+    padding:10px;
+    text-decoration:none;
+    border-bottom:1px solid rgba(0,0,0,0.25);
+    text-align:center;
+    }
+
+    .menu-ui a:first-child {
+      border-radius:3px 3px 0 0;
+      }
+
+    .menu-ui a:last-child {
+      border:none;
+      border-radius:0 0 3px 3px;
+      }
+
+    .menu-ui a:hover {
+      background:#f8f8f8;
+      color:#404040;
+      }
+
+    .menu-ui a.active,
+    .menu-ui a.active:hover {
+      background:#3887BE;
+      color:#FFF;
+      }
+
+
+
+.range-slider {
+    width: 200px;
+}
+
+#forward {
+    float: right
+    }
+
+#reverse {
+    float: left;
+}
+
+
+
+
+    

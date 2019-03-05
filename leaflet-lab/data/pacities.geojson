@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Reading",
+        "Pop_2005": 48.88,
+        "Pop_2007": 49.66,
+        "Pop_2009": 50.51,
+        "Pop_2011": 51.34,
+        "Pop_2013": 57.87,
+        "Pop_2015": 61.34,
+        "Pop_2017": 64.67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.926872,
+          40.335648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Hazleton",
+        "Pop_2005": 18.56,
+        "Pop_2007": 19.55,
+        "Pop_2009": 21.25,
+        "Pop_2011": 27.45,
+        "Pop_2013": 37.77,
+        "Pop_2015": 46.65,
+        "Pop_2017": 54.22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.985279,
+          40.964687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Allentown",
+        "Pop_2005": 30.55,
+        "Pop_2007": 31.33,
+        "Pop_2009": 33.3,
+        "Pop_2011": 35.65,
+        "Pop_2013": 40.43,
+        "Pop_2015": 47.55,
+        "Pop_2017": 50.61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.471279,
+          40.602206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kennett Square",
+        "Pop_2005": 39.88,
+        "Pop_2007": 41.21,
+        "Pop_2009": 42.96,
+        "Pop_2011": 45.66,
+        "Pop_2013": 46.77,
+        "Pop_2015": 47.16,
+        "Pop_2017": 48.06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.711593,
+          39.846724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Lebanon",
+        "Pop_2005": 19.21,
+        "Pop_2007": 21.22,
+        "Pop_2009": 23.48,
+        "Pop_2011": 27.77,
+        "Pop_2013": 31.65,
+        "Pop_2015": 36.76,
+        "Pop_2017": 41.52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.423382,
+          40.342968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Lancaster",
+        "Pop_2005": 25.55,
+        "Pop_2007": 29.76,
+        "Pop_2009": 32.26,
+        "Pop_2011": 33.54,
+        "Pop_2013": 35.66,
+        "Pop_2015": 36.88,
+        "Pop_2017": 38.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.305669,
+          40.03813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "York",
+        "Pop_2005": 18.76,
+        "Pop_2007": 21.22,
+        "Pop_2009": 22.63,
+        "Pop_2011": 25.54,
+        "Pop_2013": 27.77,
+        "Pop_2015": 28.76,
+        "Pop_2017": 31.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.727692,
+          39.962303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Bethlehem",
+        "Pop_2005": 19.65,
+        "Pop_2007": 22.56,
+        "Pop_2009": 22.38,
+        "Pop_2011": 24.55,
+        "Pop_2013": 25.67,
+        "Pop_2015": 27.87,
+        "Pop_2017": 28.52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3579576,
+          40.6348205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Norristown",
+        "Pop_2005": 17.65,
+        "Pop_2007": 17.65,
+        "Pop_2009": 19.02,
+        "Pop_2011": 21.21,
+        "Pop_2013": 23.11,
+        "Pop_2015": 24.06,
+        "Pop_2017": 26.63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.339905,
+          40.121497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Coatesville",
+        "Pop_2005": 20.98,
+        "Pop_2007": 19.67,
+        "Pop_2009": 20.17,
+        "Pop_2011": 21.43,
+        "Pop_2013": 23.33,
+        "Pop_2015": 24.11,
+        "Pop_2017": 24.54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.823835,
+          39.983162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Easton",
+        "Pop_2005": 13.43,
+        "Pop_2007": 14.43,
+        "Pop_2009": 15.78,
+        "Pop_2011": 17.11,
+        "Pop_2013": 18.11,
+        "Pop_2015": 20.49,
+        "Pop_2017": 21.72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.209987,
+          40.691608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Harrisburg",
+        "Pop_2005": 15.32,
+        "Pop_2007": 14.11,
+        "Pop_2009": 14.05,
+        "Pop_2011": 14.99,
+        "Pop_2013": 17.65,
+        "Pop_2015": 19.6,
+        "Pop_2017": 20.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.886112,
+          40.266311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Chambersburg",
+        "Pop_2005": 8.4,
+        "Pop_2007": 9.3,
+        "Pop_2009": 10.91,
+        "Pop_2011": 11.2,
+        "Pop_2013": 12.56,
+        "Pop_2015": 14.34,
+        "Pop_2017": 17.56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.659862,
+          39.94059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Wilkes-Barre",
+        "Pop_2005": 6.2,
+        "Pop_2007": 7.1,
+        "Pop_2009": 7.49,
+        "Pop_2011": 12.33,
+        "Pop_2013": 14.44,
+        "Pop_2015": 16.54,
+        "Pop_2017": 17.35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.881732,
+          41.246482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Steelton",
+        "Pop_2005": 8.67,
+        "Pop_2007": 9.76,
+        "Pop_2009": 11.41,
+        "Pop_2011": 13.33,
+        "Pop_2013": 15.43,
+        "Pop_2015": 16.54,
+        "Pop_2017": 17.02
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.841361,
+          40.235368
+        ]
+      }
+    }
+  ]
+}
